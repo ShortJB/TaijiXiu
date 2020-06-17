@@ -1,4 +1,4 @@
-# [Creator图文教程——《太极秀》（一）](https://forum.cocos.org/t/creator/37160)
+#来源： [Creator图文教程——《太极秀》（一）](https://forum.cocos.org/t/creator/37160)
 
 
 
