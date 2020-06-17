@@ -1,0 +1,38 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "logo",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.25,
+  "sample": 60,
+  "speed": 0.1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "opacity": [
+        {
+          "frame": 0.16666666666666666,
+          "value": 255,
+          "curve": [
+            0.5592165898617512,
+            0.16751152073732722,
+            0.3514976958525346,
+            0.7662442396313364
+          ]
+        },
+        {
+          "frame": 0.25,
+          "value": 0
+        }
+      ],
+      "color": []
+    }
+  },
+  "events": [
+    {
+      "frame": 0.25,
+      "func": "load_story_scene",
+      "params": []
+    }
+  ]
+}

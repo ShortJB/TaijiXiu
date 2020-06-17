@@ -1,0 +1,61 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "lotus",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.36666666666666664,
+  "sample": 60,
+  "speed": 0.1,
+  "wrapMode": 22,
+  "curveData": {
+    "paths": {
+      "lotus_hua": {
+        "props": {
+          "angle": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.25,
+              "value": 0,
+              "curve": [
+                0.19107883817427387,
+                0.6941908713692946,
+                0.7051867219917013,
+                0.32655601659751043
+              ]
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": -10
+            }
+          ]
+        }
+      },
+      "lotus_ye": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.2833333333333333,
+              "value": [
+                0,
+                -78,
+                0
+              ]
+            },
+            {
+              "frame": 0.36666666666666664,
+              "value": [
+                10,
+                -78,
+                0
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}
